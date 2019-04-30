@@ -1,0 +1,7 @@
+[0811/141308.412:ERROR:http_transport_win.cc(50)] WinHttpSendRequest: ²Ù×÷³¬Ê±  (0x2EE2)
+[0811/145014.865:ERROR:process_reader_win.cc(142)] SuspendThread: ¾Ü¾ø·ÃÎÊ¡£ (0x5)
+[0811/145014.867:ERROR:exception_snapshot_win.cc(87)] thread ID 2820 not found in process
+[0811/145014.867:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0811/145014.922:ERROR:process_reader_win.cc(142)] SuspendThread: ¾Ü¾ø·ÃÎÊ¡£ (0x5)
+[0811/145014.923:ERROR:exception_snapshot_win.cc(87)] thread ID 804 not found in process
+[0811/145014.923:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
